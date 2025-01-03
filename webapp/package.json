@@ -16,7 +16,7 @@
     "@mui/material": "^5.5.3",
     "@mui/x-date-pickers": "^7.9.0",
     "@openreplay/tracker": "^3.5.4",
-    "@sentry/browser": "^7.80.0",
+    "@sentry/browser": "^7.119.1",
     "@stomp/stompjs": "^6.1.2",
     "@tginternal/editor": "1.15.2",
     "@tolgee/format-icu": "^5.27.0",
@@ -52,7 +52,7 @@
     "react-qr-code": "^2.0.7",
     "react-query": "^3.39.3",
     "react-router-dom": "^5.2.0",
-    "recharts": "2.1.9",
+    "recharts": "2.15.0",
     "reflect-metadata": "^0.1.13",
     "regenerator-runtime": "^0.13.9",
     "sockjs-client": "^1.6.1",
@@ -104,7 +104,7 @@
     ]
   },
   "devDependencies": {
-    "@mdx-js/loader": "1.6.22",
+    "@mdx-js/loader": "3.1.0",
     "@sentry/types": "^6.5.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
