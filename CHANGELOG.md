@@ -1,3 +1,10 @@
+## [3.163.4](https://github.com/tolgee/tolgee-platform/compare/v3.163.3...v3.163.4) (2026-02-28)
+
+
+### Performance Improvements
+
+* optimize batch job throughput ([#3495](https://github.com/tolgee/tolgee-platform/issues/3495)) ([09b704d](https://github.com/tolgee/tolgee-platform/commit/09b704df3d765080e496292b2665ad8d67881d66))
+
 ## [3.163.3](https://github.com/tolgee/tolgee-platform/compare/v3.163.2...v3.163.3) (2026-02-26)
 
 
