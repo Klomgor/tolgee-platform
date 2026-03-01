@@ -1,3 +1,10 @@
+## [3.163.5](https://github.com/tolgee/tolgee-platform/compare/v3.163.4...v3.163.5) (2026-03-01)
+
+
+### Bug Fixes
+
+* prevent LazyInitializationException in the MCP tools ([#3496](https://github.com/tolgee/tolgee-platform/issues/3496)) ([ec7d633](https://github.com/tolgee/tolgee-platform/commit/ec7d633eed1f419cc9af03a3ce7580148ab4796f))
+
 ## [3.163.4](https://github.com/tolgee/tolgee-platform/compare/v3.163.3...v3.163.4) (2026-02-28)
 
 
